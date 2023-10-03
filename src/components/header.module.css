@@ -1,0 +1,59 @@
+.container {
+
+    display: flex;
+    padding: 12px 0px;
+    align-items: center;
+   
+    
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+
+}
+
+.link {
+    color: #457B9D;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo {
+    color: #457B9D;
+    display: flex;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.botao {
+    display: flex;
+    padding: 12px 48px;
+    align-items: center;
+    border-radius: 8px;
+    background: var(--blue-700, #1D3557);
+    box-shadow: 5px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    color: var(--white-50, #FFF);
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}

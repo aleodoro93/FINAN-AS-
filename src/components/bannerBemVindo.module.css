@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    width: 1184.07px;
+    padding: 24px 0px;
+
+    align-items: flex-start;
+}
+
+.caixaTexto {
+    display: flex;
+    height: 465px;
+    padding: 67px 0px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.titulo1 {
+    color: #1D3557;
+    font-family: Montserrat;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.descricao {
+    color: #263238;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.paragrafoGrande {
+    color: #263238;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
